@@ -1,7 +1,7 @@
 # Datathon Project
 
 ## Overview
-Built in a team of four, this project is a full-stack web application that predicts patient health risk from vital signs and displays real-time probability outputs.
+Built in a team of four (Anthony, Cole, Paulo, Kira), this project is a full-stack web application that predicts patient health risk from vital signs and displays real-time probability outputs.
 
 ## Key Features
 - Full-stack health risk prediction web app using a k-NN classifier with K-fold cross-validation  
